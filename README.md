@@ -2,7 +2,7 @@
  
 A következő feladatban egy nap óránkénti hőmérséklet adatait kell feldolgoznod. Készíts egy konzolos alkalmazást (.NET Framework) a saját neveddel! A program a lefutása végén ne záródjon be, váron egy billentyű lenyomást!
 
-1. 1.	Kérd be a felhasználótól, hogy melyik nap hőmérséklet adatait fogja megadni, és tárold el egy nap nevű szöveges változóba!
+1. Kérd be a felhasználótól, hogy melyik nap hőmérséklet adatait fogja megadni, és tárold el egy nap nevű szöveges változóba!
 2.	Hozz létre egy 24 elemű double-öket tároló tömböt ertekek néven.
 3.	Kérd be a felhasználótól az óránkénti értékeket egy sorban vesszővel elválasztva!
 Ha nem megy: Kérd be az adatokat soronként!
